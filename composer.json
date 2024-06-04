@@ -1,0 +1,19 @@
+{
+    "name": "tomaszkordas/random-cat",
+    "description": "A gallery of random cat",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Tomasz Kordas",
+            "email": "tomaszkordas@outlook.com"
+        }
+    ],
+    "require": {},
+    "require-dev": {},
+    "autoload": {
+        "psr-4": {
+            "tomaszkordas\\RandomCat\\": "src/"
+        }
+    }
+}
